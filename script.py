@@ -1,3 +1,7 @@
+# TODO: Load timetable (station, departure time, train id) from json
+# TODO: Load stations from json
+# TODO: Send notification at 1h, 30m and 15m before
+
 import requests as r
 import rich
 import pydantic
