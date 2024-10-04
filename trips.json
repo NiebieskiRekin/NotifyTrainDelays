@@ -2,7 +2,7 @@
   {
     "start_station": "",
     "end_station": "",
-    "planned_departure": "timestamp or null",
-    "train_id": "str or null"
+    "planned_departure": "timestamp",
+    "train_id": "str"
   }
 ]
