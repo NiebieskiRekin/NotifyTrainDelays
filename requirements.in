@@ -1,0 +1,6 @@
+gevent
+schedule
+pydantic
+requests
+rich
+pymongo
